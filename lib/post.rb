@@ -1,5 +1,5 @@
 class Post
   def intialize(name, title)
-    @name = title
+    @name = name
   end
 end
